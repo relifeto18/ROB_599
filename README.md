@@ -18,3 +18,8 @@ Perfect Model ICP
 Real Model ICP (Using filter to denoise)
 
 ![](https://github.com/relifeto18/ROB_599/blob/main/Assignment%204/Real%20Model.gif)
+
+### Assignment 5 - Antipodal Grasping ##
+Antipodal grasping
+
+![](https://github.com/relifeto18/ROB_599/blob/main/Assignment%205/Antipodal%20grasping.gif)
